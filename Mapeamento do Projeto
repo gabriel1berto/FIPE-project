@@ -1,0 +1,12 @@
+
+# Project with the FIPE API
+# First of all, the user have to make some INPUT so we can to seatch at FIPE API
+# Data flow have been sent to a PBI aplication in simple views and GPT texts interpretations
+# All this will be present by a smartphone APP 
+
+# STEPS 
+# 1- Conect to FIPE API
+# 2- Learn the right inputs to api
+# 3 - Develop a smart dashboard integrated with GPT CHAT 
+# 4 - Develop a smarthphone app to show it
+
